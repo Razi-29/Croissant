@@ -40,8 +40,8 @@ h1 {
     text-align: center;
     padding:10px;
     border-radius: 14px;
-    background-color:#E9D1B3
-    border:3px solid #ffc3ce;
+    background-color:#E9D1B3;
+    border:3px solid #C29B5E;
     box-shadow: 1px #C29B5E;
 }
 .aboutMe {
@@ -51,7 +51,7 @@ h1 {
     background-color: #E9D1B3;
     padding:10px;
     border-radius: 14px;
-    border:3px solid #ffc3ce;
+    border:3px solid #C29B5E;
     box-shadow: 1px #C29B5E;
     text-decoration: none;
  }
@@ -62,7 +62,7 @@ h1 {
     padding-block-end: 30px ;
 }
 body {
-    background-color:linear-gradient(to bottom right,#F0E8E0,#E9D1B3,#F0E8E0);
+    background-color:#f1cfb7;
 }
 h2 {
     font-family: aboreto;
