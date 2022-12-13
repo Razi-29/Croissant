@@ -62,7 +62,7 @@ h1 {
     padding-block-end: 30px ;
 }
 body {
-    background-image: linear-gradient( #BC8F8F);
+    background-image:linear-gradient(to bottom right,#BC8F8F,#BC8F8F,#BC8F8F);
 }
 h2 {
     font-family: aboreto;
