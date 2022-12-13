@@ -40,19 +40,19 @@ h1 {
     text-align: center;
     padding:10px;
     border-radius: 14px;
-    background-color:#ffcdd8;
+    background-color:#E9D1B3
     border:3px solid #ffc3ce;
-    box-shadow: 1px #2b0018;
+    box-shadow: 1px #C29B5E;
 }
 .aboutMe {
     font-family: aboreto;
     font-size: 20px;
     text-align: center;
-    background-color: #ffcdd8;
+    background-color: #E9D1B3;
     padding:10px;
     border-radius: 14px;
     border:3px solid #ffc3ce;
-    box-shadow: 1px #2b0018;
+    box-shadow: 1px #C29B5E;
     text-decoration: none;
  }
 .content {
@@ -62,7 +62,7 @@ h1 {
     padding-block-end: 30px ;
 }
 body {
-    background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);
+    background-image:linear-gradient(to bottom right,#F0E8E0,#E9D1B3,#F0E8E0);
 }
 h2 {
     font-family: aboreto;
@@ -105,7 +105,7 @@ font-family: aboreto;
     font-size: 20px;
     margin-inline-start: 10px;
         margin-inline-end: 10px;
-        background-color: #ffb7c5;
+        background-color: #E9D1B3;
         border-radius: 14px;
         padding: 5px;
 }
